@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedProgrammingConcepts", "ObjectOrientedProgrammingConcepts.csproj", "{0A2AFEBA-0DC8-4549-8372-9A3319E7CE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreConcepts", "..\CoreConcepts\CoreConcepts.csproj", "{D4A8AACC-D950-405B-9CF4-92DDFFBF39D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreConcepts", "..\CoreConcepts\CoreConcepts.csproj", "{D4A8AACC-D950-405B-9CF4-92DDFFBF39D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "..\DataStructures\DataStructures.csproj", "{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D4A8AACC-D950-405B-9CF4-92DDFFBF39D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A8AACC-D950-405B-9CF4-92DDFFBF39D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A8AACC-D950-405B-9CF4-92DDFFBF39D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
