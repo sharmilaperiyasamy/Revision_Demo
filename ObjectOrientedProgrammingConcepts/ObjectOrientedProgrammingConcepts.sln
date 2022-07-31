@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreConcepts", "..\CoreConc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "..\DataStructures\DataStructures.csproj", "{AAC99AB1-7D1D-4CCF-82DD-393B4FFCE096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueue", "..\StackQueue\StackQueue.csproj", "{CF83A543-D0BD-4234-9884-DE9CFDC25198}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackQueue", "..\StackQueue\StackQueue.csproj", "{CF83A543-D0BD-4234-9884-DE9CFDC25198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "..\Queue\Queue.csproj", "{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF83A543-D0BD-4234-9884-DE9CFDC25198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF83A543-D0BD-4234-9884-DE9CFDC25198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF83A543-D0BD-4234-9884-DE9CFDC25198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
