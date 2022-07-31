@@ -12,7 +12,6 @@ mul(5);
 Console.WriteLine("Output of Multiplication : {0}", Delegates.DelegatesEx.getNum());
 Console.ReadKey();
 
-
 // for multicasting delegate comment the single cast methods calling
 arithOp = add;
 arithOp = arithOp + mul;
