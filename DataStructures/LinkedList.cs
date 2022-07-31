@@ -93,4 +93,5 @@ namespace DataStructures
             return !list.Any();
         }
     }
+    
 }
