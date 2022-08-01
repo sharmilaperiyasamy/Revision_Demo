@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "..\Delegates\D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "..\RegularExpressions\RegularExpressions.csproj", "{87835206-6FDD-4878-9CB8-AA796B6E6812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "..\Exceptions\Exceptions.csproj", "{B047863A-462F-4512-ABE8-AF87AE6AF0D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptionstypes", "..\Exceptions\Exceptionstypes.csproj", "{B047863A-462F-4512-ABE8-AF87AE6AF0D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
