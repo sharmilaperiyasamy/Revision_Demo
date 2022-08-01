@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "..\Queue\Queue.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "..\Delegates\Delegates.csproj", "{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "..\RegularExpressions\RegularExpressions.csproj", "{87835206-6FDD-4878-9CB8-AA796B6E6812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "..\RegularExpressions\RegularExpressions.csproj", "{87835206-6FDD-4878-9CB8-AA796B6E6812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "..\Exceptions\Exceptions.csproj", "{B047863A-462F-4512-ABE8-AF87AE6AF0D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
