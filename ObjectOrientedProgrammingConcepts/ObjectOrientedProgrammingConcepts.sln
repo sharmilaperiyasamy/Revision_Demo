@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "..\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptionstypes", "..\Exceptions\Exceptionstypes.csproj", "{B047863A-462F-4512-ABE8-AF87AE6AF0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollections", "..\GarbageCollections\GarbageCollections.csproj", "{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B047863A-462F-4512-ABE8-AF87AE6AF0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
