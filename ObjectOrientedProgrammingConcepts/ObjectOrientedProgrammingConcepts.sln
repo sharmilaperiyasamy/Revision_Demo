@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackQueue", "..\StackQueue
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "..\Queue\Queue.csproj", "{925D0FCC-AD6E-4CEB-9A51-F2927C40A8A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\Delegates.csproj", "{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "..\Delegates\Delegates.csproj", "{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "..\RegularExpressions\RegularExpressions.csproj", "{87835206-6FDD-4878-9CB8-AA796B6E6812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5CE59E-FAEA-471D-896B-7F9788CF6BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87835206-6FDD-4878-9CB8-AA796B6E6812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
