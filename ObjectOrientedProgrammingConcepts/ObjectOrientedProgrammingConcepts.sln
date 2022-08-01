@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptionstypes", "..\Excep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollections", "..\GarbageCollections\GarbageCollections.csproj", "{5192B8C1-FBB6-44C6-9435-7E4D2EA6440E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsSample", "..\CollectionsSample\CollectionsSample.csproj", "{0345D770-EB28-4D48-AAFF-00A3C38CC92F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsSample", "..\CollectionsSample\CollectionsSample.csproj", "{0345D770-EB28-4D48-AAFF-00A3C38CC92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "..\LambdaExpression\LambdaExpression.csproj", "{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0345D770-EB28-4D48-AAFF-00A3C38CC92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0345D770-EB28-4D48-AAFF-00A3C38CC92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0345D770-EB28-4D48-AAFF-00A3C38CC92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
