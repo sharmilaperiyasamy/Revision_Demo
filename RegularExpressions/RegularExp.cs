@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RegularExpressions
 {
-    internal class RegularExp
+    public class RegularExp
     {
         const string firstname = @"^[A-Z]{1}[a-z]{2,}$";
         const string lastname = @"^[A-Z]{1}[a-z]{2,}$";

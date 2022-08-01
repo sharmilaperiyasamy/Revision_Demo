@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollections", "..\Ga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsSample", "..\CollectionsSample\CollectionsSample.csproj", "{0345D770-EB28-4D48-AAFF-00A3C38CC92F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "..\LambdaExpression\LambdaExpression.csproj", "{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "..\LambdaExpression\LambdaExpression.csproj", "{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTest", "..\RegexTest\RegexTest.csproj", "{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
