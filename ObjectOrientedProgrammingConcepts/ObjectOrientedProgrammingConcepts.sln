@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsSample", "..\Col
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "..\LambdaExpression\LambdaExpression.csproj", "{57FDD5DE-1EE2-400E-A4E2-ECAAB9100A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTest", "..\RegexTest\RegexTest.csproj", "{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexTest", "..\RegexTest\RegexTest.csproj", "{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingConstructs", "..\ProgrammingConstructs\ProgrammingConstructs.csproj", "{EC9BB114-3731-4D79-8617-1563A66DECEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B02DF4A-0C54-4753-A42F-7E55E4FCCFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9BB114-3731-4D79-8617-1563A66DECEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9BB114-3731-4D79-8617-1563A66DECEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9BB114-3731-4D79-8617-1563A66DECEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9BB114-3731-4D79-8617-1563A66DECEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
